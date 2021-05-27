@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatChta</string>
+    <string name="send_button_name">Отправить</string>
+</resources>
